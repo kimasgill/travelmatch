@@ -1,7 +1,8 @@
 # travelmatch
 
-Created a landing page called Travel Match.
+Landing page for a company called Travel Match.  
 
-HTML
-CSS
-Bootstrap
+Technologies used: 
+- HTML
+- CSS
+- Bootstrap 3
