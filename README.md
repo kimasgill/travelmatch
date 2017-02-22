@@ -6,3 +6,6 @@ Technologies used:
 - HTML
 - CSS
 - Bootstrap 3
+- Font Awesome Icons
+- Google Fonts
+
